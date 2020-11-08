@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<person>
+	<name>Anastasiia Nehro</name>
+	<fact1>Master of sports in swimming &gt; Self-motivated</fact1>
+	<fact2>Working at a polyclinic &gt; Stress tolerance and stress management</fact2>
+	<fact3>Improved my English from 0 level to B1 for one year &gt; A fast learner</fact3>
+	<fact4>Working with a huge pack of medical documentation &gt; Hard worker, meticulous and attentive to details</fact4>
+	<fact5>2 diplomas with honors &gt; Interested in studying and striving to be a competent specialist in my field</fact5>
+	<fact6>A leader everywhere I've studied &gt; Sociable</fact6>
+	<fact7>Work experience as a manager of a cafe for 2 years &gt; High responsibility and organization</fact7>
+	<fact8>Moved from the Ukraine to Belarus and ready to relocate to Minsk &gt; Flexible</fact8>
+</person>
