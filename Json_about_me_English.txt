@@ -1,12 +1,12 @@
 {
 	"Anastasiia Nehro": {
 		"Master of sports in swimming": "Self-motivated",
-		"Working at a polyclinic": "Stress tolerance and stress management",
+		"Working at a polyclinic": "Skilled crisis and stress management",
 		"Improved my English from 0 level to B1 for one year": "A fast learner",
-		"Highly skilled, efficient and effective correspondence management in a large amount of medical data on a daily basis": "Hard worker, meticulous and attentive to 		details",
-		"A leader everywhere I've studied": "Sociable",
+		"Highly skilled, efficient and effective correspondence management in a large amount of medical data on a daily basis": "Hard worker, meticulous and attentive to details",
+		"The head of the team everywhere I've studied": "Sociable and a leadership character",
 		"2 diplomas with honors": "Interested in studying and striving to be a competent specialist in my field",
-		"Work experience as a manager of a cafe for 2 years": "High responsibility, organization and problem solving",
+		"Work experience as a cafe manager for 2 years": "Responsibile and organized",
 		"Moved from the Ukraine to Belarus and ready to relocate to Minsk": "Flexible"
 	}
 }
